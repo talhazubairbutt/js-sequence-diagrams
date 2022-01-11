@@ -20,17 +20,10 @@
     "bower_components"
   ],
   "dependencies": {
-    "underscore": "1.8.x",
-    "lodash": "4.17.x",
-    "raphael": "2.2.x",
-    "snapsvg": "0.4.x",
-  },
-  "devDependencies": {
-    "qunit": "1.11.x",
-    "underscore": "1.8.x",
-    "lodash": "4.17.x",
-    "jquery": "3.1.x",
-    "seedrandom": "2.4.x"
+    "underscore": "1.8.3",
+    "lodash": "4.17.21",
+    "raphael": "2.2.8",
+    "snapsvg": "0.4.0"
   },
   "scripts": {
     "test": "make test"
