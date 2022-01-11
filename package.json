@@ -23,8 +23,7 @@
     "underscore": "1.8.x",
     "lodash": "4.17.x",
     "raphael": "2.2.x",
-    "snap.svg": "0.4.x",
-    "bower-webfontloader": "~1.6.x"
+    "snapsvg": "0.4.x",
   },
   "devDependencies": {
     "qunit": "1.11.x",
